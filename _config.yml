@@ -2,10 +2,7 @@ title: "Dylan's Blog"
 author: Dylan Ing
 email: ding@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Thank you for visiting Dylan's blog. If you have any questions or concerns, please contact him.
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  ingdyl # DO NOT include the @ character, or else the build will fail!
