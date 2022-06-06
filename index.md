@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my Dylan's blog."
 ---
 
-Hello. Welcome to Dylan's homepage.
+Hello. I'm Dylan Ing. I am a student at EBHS. Enjoy my blog. Thanks.
