@@ -3,7 +3,7 @@ title: "Welcome to Dylan's blog."
 ---
 
 Hello. I'm Dylan Ing. I am a student at EBHS. Enjoy my blog. Thanks.  
-
+Instgram: dylan._.ing  
 Brag Sheet:  
 - I have a 100% in AP Comp. Sci right now.  
 - I can make a Github website like this one.  
